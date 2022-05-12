@@ -23,25 +23,25 @@ Adidas is a German multinational corporation, founded and headquartered in Herzo
 
 ### Home Page
 
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Home%20page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Home%20page.png)
 
 ### Product Page
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Products%20Page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Products%20Page.png?raw=true)
 
 ### Product Description Page
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Product%20Description%20Page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Product%20Description%20Page.png?raw=true)
 
 ### Checkout Page
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Checkout%20Page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Checkout%20Page.png?raw=true)
 
 ### Shipping Address Page
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Shipping%20Address%20page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Shipping%20Address%20page.png?raw=true)
 
 ### Sign up Page
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Sign%20Up%20page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Sign%20Up%20page.png?raw=true)
 
 ### Payment Page
-![](https://github.com/renurisha/adidasWebsiteClone/blob/main/Adidas%20Clone%20Screen%20Shots/Payment%20Page.png?raw=true)
+![](https://github.com/renurisha/adidasWebsiteClone/blob/master/Adidas%20Clone%20Screen%20Shots/Payment%20Page.png?raw=true)
 
 
 
