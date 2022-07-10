@@ -19,7 +19,7 @@ Adidas is a German multinational corporation, founded and headquartered in Herzo
 
 ## Adidas Clone
 
-### [Deployment Link](https://m-sehrawat.github.io/Adidas-Website-Clone/Project%20Files/adidas_home_page.html)
+### [Deployment Link](https://adidas-website-clone.netlify.app/)
 
 ### Home Page
 
